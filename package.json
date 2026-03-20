@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@balancer-labs/sdk": "^1.1.6",
+    "@balancer/sdk": "^4.8.0",
+    "@types/dotenv": "^8.2.3",
+    "@types/node": "^24.5.2",
+    "dotenv": "^17.2.2",
+    "ethers": "^5.8.0",
+    "typescript": "^5.9.2"
+  },
+  "name": "msarb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "build:start": "npm run build && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
