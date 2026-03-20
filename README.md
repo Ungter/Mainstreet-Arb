@@ -17,6 +17,6 @@ Profit is generated from pool imbalances and price differences between these tok
 - Node.js 18+
 - TypeScript 5+
 - npm or yarn
-- Ethereum wallet with private key
-- ETH for gas fees
+- EVM wallet with private key
+- $S for gas fees
 - USDC for arbitrage operations
