@@ -1,6 +1,8 @@
 # Arbitrage Bot
 
-This was an arb bot made to profit from beet pool imbalances for the project Mainstreet Finance. However, after the 10/10 incident, smsUSD was sunset, and permissionless arbing is no longer possible for their relaunch. So I am open-sourcing this bot here. Check the relaunched Mainstreet out [here](https://mainstreet.finance/)
+This was an arb bot made to profit from beet pool imbalances for the project Mainstreet Finance. However, after the 10/10 incident, smsUSD was sunset, along with Stream's downfall, leaving several curator vaults (like GreenHouse's ghUSDC) with bad debt. After Mainstreet's relaunch, permissionless arbing is no longer possible, so I am open-sourcing this bot here. 
+
+Check the relaunched Mainstreet out [here](https://mainstreet.finance/)
 
 ## Steps
 
